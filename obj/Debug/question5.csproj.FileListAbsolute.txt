@@ -1,0 +1,7 @@
+E:\TRGDemo\Csharp\question5\question5\bin\Debug\question5.exe.config
+E:\TRGDemo\Csharp\question5\question5\bin\Debug\question5.exe
+E:\TRGDemo\Csharp\question5\question5\bin\Debug\question5.pdb
+E:\TRGDemo\Csharp\question5\question5\obj\Debug\question5.csproj.AssemblyReference.cache
+E:\TRGDemo\Csharp\question5\question5\obj\Debug\question5.csproj.CoreCompileInputs.cache
+E:\TRGDemo\Csharp\question5\question5\obj\Debug\question5.exe
+E:\TRGDemo\Csharp\question5\question5\obj\Debug\question5.pdb
